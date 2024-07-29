@@ -14,6 +14,7 @@ Este año, junto con mis 6 increíbles compañeros de equipo, estamos trabajando
 
 Correo: fernandezjosemanuel524@gmail.com
 LinkedIn: https://www.linkedin.com/in/jose-manuel-munoz-fernandez-2871bb2ba
+Correo Institucional: jose.munozf@iejosemariabravomarquez.edu.co
 
 ## ⚡ Dato curioso
 
