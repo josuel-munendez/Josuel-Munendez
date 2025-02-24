@@ -1,6 +1,6 @@
 # ¡Hola, soy "Josuel Munendez"! 👋
 
-Soy un estudiante de once grado en la institución educativa José María Bravo Márquez y actualmente estoy cursando una técnica en diseño de software en el Servicio Nacional de Aprendizaje (SENA). 
+Egresado de la institución educativa José María Bravo Márquez y actualmente estoy cursando una técnologia en desarrollo de software en el Servicio Nacional de Aprendizaje (SENA). 
 
 ## 🌱 Actualmente estoy aprendiendo ...
 
@@ -8,7 +8,7 @@ C++, Python y Java. Además de pulir mis habilidades en html, css, javascript y 
 
 ## 🔭 Estoy trabajando en ...
 
-Este año, junto con mis 6 increíbles compañeros de equipo, estamos trabajando en un emocionante proyecto: la creación de una demo o beta de un videojuego utilizando C++, Godot, GitHub y otros programas.
+Este año, junto con mis 4 increíbles compañeros de equipo, estamos trabajando en un emocionante proyecto del SENA.
 
 ## 📫 Cómo contactarme
 
