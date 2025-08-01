@@ -15,7 +15,7 @@
 # 👤 Jose Manuel Muñoz Fernández
 
 **Junior Developer | Diseñador | Programador**
-Estudiante de ADSO (SENA) y segundo semestre de Desarrollo de Software con ciclo complementario Ingeniería de Sistemas (ITM)
+Estudiante de ADSO (SENA) y segundo semestre de Desarrollo de Software con ciclo complementario para Ingeniería de Sistemas (ITM)
 
 > Apasionado por traducir requisitos en soluciones funcionales, combinando fundamentos técnicos con creatividad en interfaces.
 
