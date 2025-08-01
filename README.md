@@ -25,7 +25,7 @@ Estudiante de ADSO (SENA) y segundo semestre de Desarrollo de Software con ciclo
 
 **Técnico en Programación de Software** • SENA
 
-* Programación orientada a objetos (PHP)
+* Programación orientada a objetos (PHP, JS)
 * Desarrollo web: HTML5, CSS3, JavaScript
 * Bases de datos relacionales (MySQL, modelado E–R)
 * Metodologías ágiles (Scrum, Kanban)
