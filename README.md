@@ -96,7 +96,7 @@ Estudiante de ADSO (SENA) y segundo semestre de Desarrollo de Software con ciclo
 * Diseño de software: artefactos UML, modelado de datos
 * Programación: algoritmos, estructuras de datos, codificación en Python, PHP, JavaScript
 * Bases de datos: MER, MR, SQL, normalización
-* Desarrollo web: HTML, Bootstrap, CSS, JavaScript básico
+* Desarrollo web: HTML, Bootstrap, CSS, JavaScript no avanzado
 * QA y pruebas: planificación de pruebas, aseguramiento de calidad
 
 **Blandas / Transversales**
