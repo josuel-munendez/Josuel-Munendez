@@ -113,6 +113,6 @@ Estudiante de ADSO (SENA) y segundo semestre de Desarrollo de Software con ciclo
 
 * ✉️ [fernandezjosemanuel524@gmail.com](mailto:fernandezjosemanuel524@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/jose-manuel-mu%C3%B1oz-fern%C3%A1ndez-201679344)
-* 🏫 [Correo Institucional](mailto:josem_munozf@soy.senu.edu.co)
+* 🏫 [Correo Institucional SENA](mailto:josem_munozf@soy.senu.edu.co) - 🏫 [Correo Institucional ITM](mailto:josemunoz1148129@correo.itm.com)
 
 > *“Siempre aprendiendo, siempre construyendo.”*
