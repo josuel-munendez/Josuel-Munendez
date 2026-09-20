@@ -13,18 +13,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111827&height=10" width="100%"/>
 </p>
 
-<!-- TÍTULO DINÁMICO DE BIENVENIDA -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Jose%20Manuel%20Mu%C3%B1oz%20F.&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
-</p>
-
-<!-- LÍNEA DE SISTEMA -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111827&height=10" width="100%"/>
-</p>
-
 <!-- HEADER -->
-<!-- <h1 align="center">👋 Hola, soy Jose Manuel Muñoz Fernández</h1> -->
+<h1 align="center">👋 Hola, soy Jose Manuel Muñoz Fernández</h1>
 <p align="center">
   <b>FULL-STACK & BACKEND JUNIOR DEVELOPER</b> • <b>APIS & MICROSERVICES</b> • <b>DATABASES & DEVOPS</b>
 </p>
