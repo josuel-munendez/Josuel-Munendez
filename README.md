@@ -155,7 +155,7 @@ CMS dinámico y plataforma web desarrollada durante la Media Técnica.
 </p>
 
 <p align="center">
-  📱 <i>+57 300 8075506</i> | 📍 <i>Medellín, Colombia</i>[cite: 10, 15]
+  📱 <i>+57 300 8075506</i> | 📍 <i>Medellín, Colombia</i>
 </p>
 
 <!-- FOOTER -->
