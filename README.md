@@ -1,6 +1,21 @@
 <!-- BANNER DE ENCABEZADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00BFFF,100:0f172a&height=220&section=header&text=Jose%20Manuel%20Mu%C3%B1oz%20F.&fontSize=40&fontColor=ffffff&desc=FULL-STACK%20%26%20BACKEND%20DEVELOPER%20%7C%20APIs%20%26%20MICROSERVICES&descSize=16&descAlignTop=false&descAlign=50" width="100%" />
+  <img 
+    src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" 
+    width="100%" 
+    style="max-height:260px; object-fit:cover; border-radius: 8px; border-bottom: 2px solid #00BFFF;" 
+    alt="Header Banner"
+  />
+</p>
+
+<!-- LÍNEA NEÓN DE SEPARACIÓN -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111827&height=10" width="100%"/>
+</p>
+
+<!-- TÍTULO DINÁMICO DE BIENVENIDA -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Jose%20Manuel%20Mu%C3%B1oz%20F.&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
 </p>
 
 <!-- LÍNEA DE SISTEMA -->
