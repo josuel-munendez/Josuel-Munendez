@@ -24,7 +24,7 @@
 </p>
 
 <!-- HEADER -->
-<h1 align="center">👋 Hola, soy Jose Manuel Muñoz Fernández</h1>
+<!-- <h1 align="center">👋 Hola, soy Jose Manuel Muñoz Fernández</h1> -->
 <p align="center">
   <b>FULL-STACK & BACKEND JUNIOR DEVELOPER</b> • <b>APIS & MICROSERVICES</b> • <b>DATABASES & DEVOPS</b>
 </p>
