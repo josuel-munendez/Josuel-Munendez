@@ -35,9 +35,9 @@
 
 ## 🚀 Sobre mí
 
-Soy **Desarrollador Full-Stack y Backend Junior** apasionado por construir soluciones robustas, escalables y seguras desde cero[cite: 10, 15]. Mi enfoque abarca la integración de APIs REST, arquitecturas de microservicios, bases de datos optimizadas y despliegues contenerizados con testing automatizado y flujos CI/CD[cite: 10, 15].
+Soy **Desarrollador Full-Stack y Backend Junior** apasionado por construir soluciones robustas, escalables y seguras desde cero. Mi enfoque abarca la integración de APIs REST, arquitecturas de microservicios, bases de datos optimizadas y despliegues contenerizados con testing automatizado y flujos CI/CD.
 
-Cuento con experiencia práctica en **4 aplicaciones entregadas** (incluyendo un E-commerce real con visor 3D interactivo)[cite: 10]. Actualmente, busco una oportunidad de **contrato de aprendizaje** para aportar escalabilidad, calidad de código y apoyo Full-Stack en un equipo de ingeniería ágil[cite: 10, 15].
+Cuento con experiencia práctica en **4 aplicaciones entregadas** (incluyendo un E-commerce real con visor 3D interactivo). Actualmente, busco una oportunidad de **contrato de aprendizaje** para aportar escalabilidad, calidad de código y apoyo Full-Stack en un equipo de ingeniería ágil.
 
 > *"No se trata solo de escribir código, sino de diseñar, probar, desplegar y evolucionar soluciones reales."*
 
@@ -45,14 +45,14 @@ Cuento con experiencia práctica en **4 aplicaciones entregadas** (incluyendo un
 
 ## 🎓 Formación académica
 
-* 🎓 **Tecnología en Análisis y Desarrollo de Software (ADSO)** — *SENA (Febrero 2025 - Actualidad)*[cite: 10]
-  * Modelado de datos, arquitectura por capas, análisis de requisitos, integración de APIs y testing[cite: 10, 11].
-* 🎓 **Tecnología en Desarrollo de Aplicaciones para Dispositivos Móviles** — *ITM (Febrero 2025 - Actualidad)*[cite: 10]
-  * Programación estructurada, lógica de programación, herramientas gráficas y matemática computacional[cite: 10, 11].
-* 🎓 **Técnico en Programación de Software** — *SENA (Graduado 2024)*[cite: 10, 11]
-  * Programación orientada a objetos (PHP, JS), desarrollo web y bases de datos relacionales (MySQL, MER/MR)[cite: 10, 11].
-* 🎓 **Bachiller Técnico en Informática y Programación** — *I.E. José María Bravo Márquez (2018 - 2024)*[cite: 10, 11]
-  * **Puntaje ICFES:** Top 2% Nacional (2024)[cite: 10, 15].
+* 🎓 **Tecnología en Análisis y Desarrollo de Software (ADSO)** — *SENA (Febrero 2025 - Actualidad)*
+  * Modelado de datos, arquitectura por capas, análisis de requisitos, integración de APIs y testing.
+* 🎓 **Tecnología en Desarrollo de Aplicaciones para Dispositivos Móviles** — *ITM (Febrero 2025 - Actualidad)*
+  * Programación estructurada, lógica de programación, herramientas gráficas y matemática computacional.
+* 🎓 **Técnico en Programación de Software** — *SENA (Graduado 2024)*
+  * Programación orientada a objetos (PHP, JS), desarrollo web y bases de datos relacionales (MySQL, MER/MR).
+* 🎓 **Bachiller Técnico en Informática y Programación** — *I.E. José María Bravo Márquez (2018 - 2024)*
+  * **Puntaje ICFES:** Top 2% Nacional (2024).
 
 ---
 
@@ -97,37 +97,37 @@ Cuento con experiencia práctica en **4 aplicaciones entregadas** (incluyendo un
 ## 🏗️ Proyectos Destacados
 
 ### 🎨 RED Estampación — E-commerce con Editor 3D (Proyecto Real ADSO)
-Plataforma e-commerce para cliente real con renderizado de texturas e integración de pagos[cite: 10].
-* **Stack:** Django, React.js, Three.js, Tailwind, PostgreSQL, MongoDB, Docker, Nginx, Gunicorn[cite: 10].
+Plataforma e-commerce para cliente real con renderizado de texturas e integración de pagos.
+* **Stack:** Django, React.js, Three.js, Tailwind, PostgreSQL, MongoDB, Docker, Nginx, Gunicorn.
 * **Logros:** 
-  * Construcción de visor 3D interactivo para renderizado en tiempo real, incrementando retención de usuarios en un 25%[cite: 10].
-  * 10 endpoints REST seguros integrados con pasarela Wompi, Cloudinary y OAuth2 (procesamiento < 2s)[cite: 10].
-  * Cobertura de pruebas automatizadas del 85% (Jest, Pytest) y despliegue orquestado en Docker con CI/CD[cite: 10].
+  * Construcción de visor 3D interactivo para renderizado en tiempo real, incrementando retención de usuarios en un 25%.
+  * 10 endpoints REST seguros integrados con pasarela Wompi, Cloudinary y OAuth2 (procesamiento < 2s).
+  * Cobertura de pruebas automatizadas del 85% (Jest, Pytest) y despliegue orquestado en Docker con CI/CD.
 
 ---
 
 ### ☕ Arquitectura de Microservicios con Spring Boot
-Sistema backend desacoplado bajo principios de diseño limpio y aislamiento de dominios[cite: 10].
-* **Stack:** Java 21, Spring Boot, JPA, JDBC, MySQL, H2, Maven[cite: 10].
+Sistema backend desacoplado bajo principios de diseño limpio y aislamiento de dominios.
+* **Stack:** Java 21, Spring Boot, JPA, JDBC, MySQL, H2, Maven.
 * **Logros:** 
-  * Diseño de 3 microservicios independientes (usuarios, productos, vehículos) con aislamiento transaccional[cite: 10].
-  * Implementación de 15 endpoints REST con patrón Controller-Service-Repository y consultas parametrizadas contra inyecciones SQL[cite: 10].
+  * Diseño de 3 microservicios independientes (usuarios, productos, vehículos) con aislamiento transaccional.
+  * Implementación de 15 endpoints REST con patrón Controller-Service-Repository y consultas parametrizadas contra inyecciones SQL.
 
 ---
 
 ### 📊 Sistema de Gestión de Clientes (CRM)
-Módulo backend desacoplado enfocado en alta mantenibilidad y seguridad multiperfil[cite: 10].
-* **Stack:** Django, Python, PostgreSQL, MySQL, Docker, Bootstrap[cite: 10].
+Módulo backend desacoplado enfocado en alta mantenibilidad y seguridad multiperfil.
+* **Stack:** Django, Python, PostgreSQL, MySQL, Docker, Bootstrap.
 * **Logros:**
-  * Implementación de patrones Repository y Service Layer, agilizando migraciones de base de datos de días a minutos[cite: 10].
-  * Control de acceso basado en roles (RBAC) para seguridad en módulos administrativos contenerizados en Docker[cite: 10].
+  * Implementación de patrones Repository y Service Layer, agilizando migraciones de base de datos de días a minutos.
+  * Control de acceso basado en roles (RBAC) para seguridad en módulos administrativos contenerizados en Docker.
 
 ---
 
 ### 🎮 Videojuego & CMS en GDevelop
-CMS dinámico y plataforma web desarrollada durante la Media Técnica[cite: 10].
-* **Stack:** PHP, MySQL, JavaScript, HTML5, CSS3, GDevelop[cite: 10].
-* **Logros:** Sincronización de puntajes en tiempo real y depuración de 20+ incidencias críticas de rendimiento con pruebas QA bajo Scrum/Kanban[cite: 10].
+CMS dinámico y plataforma web desarrollada durante la Media Técnica.
+* **Stack:** PHP, MySQL, JavaScript, HTML5, CSS3, GDevelop.
+* **Logros:** Sincronización de puntajes en tiempo real y depuración de 20+ incidencias críticas de rendimiento con pruebas QA bajo Scrum/Kanban.
 
 ---
 
