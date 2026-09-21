@@ -1,7 +1,7 @@
 <!-- BANNER DE ENCABEZADO -->
 <p align="center">
   <img 
-    src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" 
+    src="<img width="1792" height="592" alt="Auto-Glados-HAL_holograms_software_banner" src="https://github.com/user-attachments/assets/547816ec-fd75-4a35-8aa6-9db3b6b0b25d" />" 
     width="100%" 
     style="max-height:260px; object-fit:cover; border-radius: 8px; border-bottom: 2px solid #00BFFF;" 
     alt="Header Banner"
