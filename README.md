@@ -96,8 +96,7 @@ Cuento con experiencia práctica en **4 aplicaciones entregadas** (incluyendo un
 
 ## 🏗️ Proyectos Destacados
 
-### 🎨 RED Estampación — E-commerce con Editor 3D (Proyecto Real ADSO)
-[https://github.com/eliassidez123234dfs/projecto_formativo](https://github.com/eliassidez123234dfs/projecto_formativo)
+### [🎨 RED Estampación — E-commerce con Editor 3D (Proyecto Real ADSO)](https://github.com/eliassidez123234dfs/projecto_formativo)
 Plataforma e-commerce para cliente real con renderizado de texturas e integración de pagos.
 * **Stack:** Django, React.js, Three.js, Tailwind, PostgreSQL, MongoDB, Docker, Nginx, Gunicorn.
 * **Logros:**
