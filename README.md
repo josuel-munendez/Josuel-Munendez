@@ -130,8 +130,12 @@ CMS dinámico y plataforma web desarrollada durante la Media Técnica.
 ## 📊 Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josuel-munendez&show_icons=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_color=00BFFF&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=josuel-munendez&show_icons=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_color=00BFFF&hide_border=true" width="48%" />
+</p>
+
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josuel-munendez&theme=transparent&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=ffffff&border=00BFFF&hide_border=true" width="48%" />
+</p>
 
   <!-- Alternativa 1: GitHub Stats vía Stats Readme Vercel -->
 <p align="center">
