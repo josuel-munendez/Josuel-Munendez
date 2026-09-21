@@ -96,18 +96,18 @@ Cuento con experiencia práctica en **4 aplicaciones entregadas** (incluyendo un
 
 ## 🏗️ Proyectos Destacados
 
-### (🎨 RED Estampación — E-commerce con Editor 3D (Proyecto Real ADSO))[https://github.com/eliassidez123234dfs/projecto_formativo]
+### [🎨 RED Estampación — E-commerce con Editor 3D (Proyecto Real ADSO](https://github.com/eliassidez123234dfs/projecto_formativo)
 Plataforma e-commerce para cliente real con renderizado de texturas e integración de pagos.
 * **Stack:** Django, React.js, Three.js, Tailwind, PostgreSQL, MongoDB, Docker, Nginx, Gunicorn.
 * **Logros:**
-  * Desplegado en: (https://projecto-formativo-steel.vercel.app/)[https://projecto-formativo-steel.vercel.app/]. Neon para Base de Datos PostgreSQL, MongoDB para Base de Datos NoSQL, Render para Backend y Vercel para Frontend.
+  * Desplegado en: [https://projecto-formativo-steel.vercel.app/](https://projecto-formativo-steel.vercel.app/). Neon para Base de Datos PostgreSQL, MongoDB para Base de Datos NoSQL, Render para Backend y Vercel para Frontend.
   * Construcción de visor 3D interactivo para renderizado en tiempo real, incrementando retención de usuarios en un 25%.
   * 10 endpoints REST seguros integrados con pasarela Wompi, Cloudinary y OAuth2 (procesamiento < 2s).
   * Cobertura de pruebas automatizadas del 85% (Jest, Pytest) y despliegue orquestado en Docker con CI/CD.
 
 ---
 
-### (☕ Arquitectura de Microservicios con Spring Boot)[https://github.com/josuel-munendez/Proyecto1_springsena]
+### [☕ Arquitectura de Microservicios con Spring Boot](https://github.com/josuel-munendez/Proyecto1_springsena)
 Sistema backend desacoplado bajo principios de diseño limpio y aislamiento de dominios.
 * **Stack:** Java 21, Spring Boot, JPA, JDBC, MySQL, H2, Maven.
 * **Logros:**
@@ -116,7 +116,7 @@ Sistema backend desacoplado bajo principios de diseño limpio y aislamiento de d
 
 ---
 
-### (📊 Sistema de Gestión de Clientes (CRM))[https://github.com/josuel-munendez/ProyectoDJviernes]
+### [📊 Sistema de Gestión de Clientes (CRM)](https://github.com/josuel-munendez/ProyectoDJviernes)
 Módulo backend desacoplado enfocado en alta mantenibilidad y seguridad multiperfil.
 * **Stack:** Django, Python, PostgreSQL, MySQL, Docker, Bootstrap.
 * **Logros:**
@@ -125,7 +125,7 @@ Módulo backend desacoplado enfocado en alta mantenibilidad y seguridad multiper
 
 ---
 
-### (🎮 Videojuego & CMS en GDevelop)[https://github.com/PelaezNera/ProyectLuzbel]
+### [🎮 Videojuego & CMS en GDevelop](https://github.com/PelaezNera/ProyectLuzbel)
 CMS dinámico y plataforma web desarrollada durante la Media Técnica.
 * **Stack:** PHP, MySQL, JavaScript, HTML5, CSS3, GDevelop.
 * **Logros:** Sincronización de puntajes en tiempo real y depuración de 20+ incidencias críticas de rendimiento con pruebas QA bajo Scrum/Kanban.
