@@ -100,7 +100,7 @@ Cuento con experiencia práctica en **4 aplicaciones entregadas** (incluyendo un
 Plataforma e-commerce para cliente real con renderizado de texturas e integración de pagos.
 * **Stack:** Django, React.js, Three.js, Tailwind, PostgreSQL, MongoDB, Docker, Nginx, Gunicorn.
 * **Logros:**
-  * Desplegado en: [https://projecto-formativo-steel.vercel.app/](https://projecto-formativo-steel.vercel.app/). Neon para Base de Datos PostgreSQL, MongoDB para Base de Datos NoSQL, Render para Backend y Vercel para Frontend.
+  * Desplegado: [https://projecto-formativo-steel.vercel.app/](https://projecto-formativo-steel.vercel.app/). Se uso Neon para Base de Datos PostgreSQL, MongoDB para Base de Datos NoSQL, Render para Backend y Vercel para Frontend.
   * Construcción de visor 3D interactivo para renderizado en tiempo real, incrementando retención de usuarios en un 25%.
   * 10 endpoints REST seguros integrados con pasarela Wompi, Cloudinary y OAuth2 (procesamiento < 2s).
   * Cobertura de pruebas automatizadas del 85% (Jest, Pytest) y despliegue orquestado en Docker con CI/CD.
