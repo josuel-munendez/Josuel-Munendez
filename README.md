@@ -1,11 +1,6 @@
-<!-- BANNER DE ENCABEZADO -->
+<!-- BANNER PRINCIPAL DE ENCABEZADO -->
 <p align="center">
-  <img 
-    src="<img width="1792" height="592" alt="Auto-Glados-HAL_holograms_software_banner" src="https://github.com/user-attachments/assets/547816ec-fd75-4a35-8aa6-9db3b6b0b25d" />" 
-    width="100%" 
-    style="max-height:260px; object-fit:cover; border-radius: 8px; border-bottom: 2px solid #00BFFF;" 
-    alt="Header Banner"
-  />
+  <img src="https://github.com/user-attachments/assets/547816ec-fd75-4a35-8aa6-9db3b6b0b25d" width="100%" style="border-radius: 8px; border-bottom: 2px solid #00BFFF;" alt="Banner Desarrollo de Software" />
 </p>
 
 <!-- LÍNEA NEÓN DE SEPARACIÓN -->
