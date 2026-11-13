@@ -90,7 +90,7 @@ Cuento con experiencia práctica en múltiples aplicaciones de alto impacto (inc
 
 ## 🏗️ Proyectos Destacados
 
-### [🏙️ Manrique EduDigital — Producto de Datos & Alerta Temprana](https://github.com/josuel-munendez/ManriqueEduDigital)
+### [🏙️ Manrique EduDigital — Producto de Datos & Alerta Temprana](https://github.com/josuel-munendez/manrique-edudigital-2026)
 Plataforma de historial académico digital y alerta temprana de deserción escolar para la Comuna 3 - Manrique (Diplomado Territorio INN 2026).
 * **Stack:** Python, Streamlit, DuckDB, Pandas, Pandera, Scikit-Learn (Random Forest), LangChain, ChromaDB.
 * **Logros:**
